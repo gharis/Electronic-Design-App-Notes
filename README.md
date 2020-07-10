@@ -1,3 +1,3 @@
 # Electronic-Design-App-Notes
 
-ref designs from component manufacturers 
+theoretical designs from component manufacturers
