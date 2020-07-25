@@ -15,3 +15,6 @@ https://www.analog.com/media/en/technical-documentation/technical-articles/55798
 
 # Over voltage protection with Zener Diodes 
 https://components101.com/articles/designing-an-overvoltage-protection-circuit-using-zener-diodes
+
+# Using ESD Diodes as Voltage Clamps
+https://www.analog.com/en/analog-dialogue/articles/esd-diodes-as-voltage-clamps.html#:~:text=ESD%20Cells%20as%20Clamps&text=In%20a%20typical%20application%2C%20a,equation%20in%20the%20following%20formula.
