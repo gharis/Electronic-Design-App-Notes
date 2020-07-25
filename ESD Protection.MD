@@ -12,3 +12,6 @@ https://www.powerelectronics.com/technologies/regulators/article/21861282/select
 
 # Protecting Instrumentation Amplifiers
 https://www.analog.com/media/en/technical-documentation/technical-articles/55798267SEN5247e.pdf
+
+# Over voltage protection with Zener Diodes 
+https://components101.com/articles/designing-an-overvoltage-protection-circuit-using-zener-diodes
