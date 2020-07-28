@@ -14,7 +14,7 @@ ti.com/lit/an/sboa247/sboa247.pdf?ts=1595964516672&ref_url=https%253A%252F%252Fw
 https://www.analog.com/media/en/analog-dialogue/volume-52/number-4/remote-sensing-using-a-high-precision-instrumentation-amplifier.pdf
 
 # AD Bridge Circuits
-analog.com/media/en/technical-documentation/application-notes/an43f.pdf
+https://www.analog.com/media/en/technical-documentation/application-notes/an43f.pdf
 
 # TI Bridge amplifier circuit
 https://www.youtube.com/watch?v=TnunRrAXHaw
