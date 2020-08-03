@@ -4,13 +4,21 @@
 https://training.ti.com/battery-management-deep-dive-technical-training
 
 Battery management fundamentals
+
 Battery management tools: crash course 
+
 Battery chargers: fundamentals  
+
 Battery chargers: pick your application 
+
 Battery chargers: "How to..." problem solvers 
+
 Battery gauges: get started  
+
 Battery gauges: get help for your device  
+
 Battery monitors 
+
 Battery protection  
 
 # TI reference designs
