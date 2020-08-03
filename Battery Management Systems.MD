@@ -26,3 +26,28 @@ https://www.ti.com/reference-designs/index.html#search?famid=64,394
 
 # Multicell 36-V to 48-V Battery Management System Reference Design
 https://www.ti.com/lit/ug/tiducn1/tiducn1.pdf?ts=1596445201627&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FTIDA-00792%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dsys-ind-null-refdesdynamic-cpc-evm-google-wwe%2526utm_content%253Drefdesdynamic%2526ds_k%253DDYNAMIC%2BSEARCH%2BADS%2526DCM%253Dyes%2526gclid%253DCj0KCQjw6575BRCQARIsAMp-ksPrbriJtRMPnZY6joa1WJ-8w9gxDNDeOk4rlgyjtRxTQLiACrLvgEkaAoMfEALw_wcB%2526gclsrc%253Daw.ds
+
+# AD Battery Management
+https://www.analog.com/en/products/power-management/battery-management.html
+
+Battery Backup IC
+
+Battery Cell Balancers
+
+Battery Charger IC
+
+Battery Charger Plus DC/DC
+
+Battery Source Selectors IC
+
+Coulomb Counter (Battery Fuel Gauge)
+
+Industrial Battery Manufacturing
+
+Multicell Battery Stack Monitor
+
+PMIC (DC/DC, PowerPath & Battery Charger)
+
+USB Power Manager (PowerPath, Battery Charger)
+
+Wireless Power Transfer
