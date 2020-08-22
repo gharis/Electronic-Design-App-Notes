@@ -1,7 +1,9 @@
 # Use cases
 
 *power muxing
+
 *Reverse Battery Protection with Ideal Diode Controllers 
+
 *ORing Power Supplies with Ideal Diode Controllers
 
 # Basics of Ideal Diodes  
