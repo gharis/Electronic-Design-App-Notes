@@ -5,3 +5,6 @@ https://www.ti.com/lit/ds/symlink/bq76952.pdf?ts=1606725817312&ref_url=https%253
 
 ## BQ75614-Q1 14S or 16S Standalone Precision Automotive Battery Monitor, Balancer and Integrated Current Sense with up to SafeTITM-26262 ASIL-D ASIL-D Compliance
 https://www.ti.com/lit/ds/symlink/bq75614-q1.pdf?ts=1606747684962&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FBQ75614-Q1
+
+## BQ79616-Q1 16-S automotive precision battery monitor, balancer and integrated protector with ASIL-D compliance
+https://www.ti.com/lit/gpn/bq79616-q1
